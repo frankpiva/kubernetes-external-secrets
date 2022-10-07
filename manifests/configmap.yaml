@@ -1,0 +1,6 @@
+apiVersion: 1
+kind: ConfigMap
+metadata:
+  name: configmap
+data:
+  description: "I am a native Kubernetes ConfigMap."
