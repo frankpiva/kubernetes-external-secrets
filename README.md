@@ -1,2 +1,2 @@
 # kubernetes-external-secrets
-testing if Harness deploy and version K8s CRDs
+testing if Harness versions K8s CRDs
